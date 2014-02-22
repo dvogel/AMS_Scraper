@@ -1,0 +1,7 @@
+gem 'activesupport'
+gem 'data_mapper'
+gem 'curb'
+gem 'trollop'
+gem 'debugger'
+gem 'pry'
+gem 'pry-debugger', :git => 'https://github.com/nixme/pry-debugger.git'
